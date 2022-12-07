@@ -18,5 +18,6 @@ pip install -r requirements.txt
 ### R
 
 ```R
-
+install.packages("seqinr")
+install.packages("ggplot2")
 ```
